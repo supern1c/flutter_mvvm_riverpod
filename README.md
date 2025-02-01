@@ -1,10 +1,10 @@
-# test_mvvm
+# Riverpod MVVM
 
-A new Flutter project.
+A Flutter Boilerplate for MVVM.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application with MVVM architecture using Riverpod.
 
 A few resources to get you started if this is your first Flutter project:
 
